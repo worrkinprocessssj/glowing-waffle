@@ -1,0 +1,10 @@
+Pkg install nodejs
+npm install axios
+npm install cheerio
+npm install gradient-string
+node blury.js
+
+make sure use fresh proxies in proxy.txt
+
+⚠️dont attack on gov and edu sites⚠️
+only for education purpose 
